@@ -17,19 +17,19 @@
 ├── test_utils.py
 ├── federated_learning.ipynb
 │
-├── encoder_client_0.pth
-├── encoder_client_1.pth
-├── encoder_client_2.pth
-├── encoder_client_3.pth
+├── encoder_client_0.pth (trained weight of client's private encoder)
+├── encoder_client_1.pth (trained weight of client's private encoder)
+├── encoder_client_2.pth (trained weight of client's private encoder)
+├── encoder_client_3.pth (trained weight of client's private encoder)
 │
-├── global_shared_model.pth
+├── global_shared_model.pth (contiains final trained parameters of the shared model)
 │
-├── scaler.pkl
+├── scaler.pkl (trained normalization model)
 │
-├── client_0_predictions.csv
-├── client_1_predictions.csv
-├── client_2_predictions.csv
-├── client_3_predictions.csv
+├── client_0_predictions.csv (contians prediction data)
+├── client_1_predictions.csv (contians prediction data)
+├── client_2_predictions.csv (contians prediction data)
+├── client_3_predictions.csv (contians prediction data)
 │
 └── README.md
 ```
