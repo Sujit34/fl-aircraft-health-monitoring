@@ -1,7 +1,7 @@
 # Federated Learning for Aircraft Health Monitoring
-```
-This project implements a Federated Learning framework for RUL and Fault Detection using CMPASS dataset. It enables multiple airline companies with differnt sensor configurations to collaborattively train a shared model using client-specific encoders, FedProx, client-side norm clipping and Krum aggregation without sharing raw sensor data. 
-```
+
+##This project implements a Federated Learning framework for RUL and Fault Detection using CMPASS dataset. It enables multiple airline companies with differnt sensor configurations to collaborattively train a shared model using client-specific encoders, FedProx, client-side norm clipping and Krum aggregation without sharing raw sensor data. 
+
 
 # Project Directory
 
